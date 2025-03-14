@@ -1,3 +1,10 @@
+## Order system
+
+Click [here](http://104.155.238.185/menu) to menu
+Click [here](http://104.155.238.185/login) to dashboard
+account: admin
+password: Abc123456
+
 This is an ordering system designed to help businesses manage inventory, calculate profits, and handle accounting records. When an order is placed at the front end, the system uses WebSocket to transmit the data to the back end for order processing.
 
 📖 Menu
